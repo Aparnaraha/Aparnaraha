@@ -1,6 +1,5 @@
 ### Hi there 👋
-# 💫About Me :
-I'm Aparna Raha, A frontend Web Developer.
+# 💫I'm Aparna Raha, A frontend Web Developer.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aparna-raha-5879991b9/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/16445193/aparna-raha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aparnaraha) 
