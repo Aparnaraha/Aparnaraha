@@ -1,18 +1,5 @@
 ### Hi there 👋
 # 💫I'm Aparna Raha, A frontend Web Developer.
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 50" style="background-color: #00000000;" width="400px" height="50px">
-
-    
-    <path id="path0">
-        <animate id="d0" attributeName="d" begin="0s;d0.end" dur="5000ms" values="m0,25 h0 ; m0,25 h400 ; m0,25 h0" keyTimes="0;0.8;1"/>
-    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#0357F7" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
-        <textPath xlink:href="#path0">
-            Full Stack Developer :)
-        </textPath>
-    </text>
-
-</svg>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aparna-raha-5879991b9/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/16445193/aparna-raha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aparnaraha) 
